@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doon74.github.io/sitemap.xml

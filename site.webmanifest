@@ -1,0 +1,14 @@
+{
+  "name": "Doon AC Service",
+  "short_name": "Doon AC",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Doon AC Service - AC Repair & Service in Dehradun",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
